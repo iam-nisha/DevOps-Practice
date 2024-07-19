@@ -1,2 +1,4 @@
 hii welcome to demofile.
+<<<<<<< HEAD
 this line is from git.
+
